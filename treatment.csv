@@ -1,0 +1,60 @@
+year,reporting_period_type,reporting_period,reporting_period_start_date,data_through_date,service_category,metric,metric_value,data_as_of,data_loaded_at
+2020,Annual (Full),,2020/01/01,2020/12/31,Medications for Opiate Use Disorder,Buprenorphine,2596,2025/03/18 02:12:35 PM,2025/03/18 02:17:07 PM
+2021,Annual (Full),,2021/01/01,2021/12/31,Medications for Opiate Use Disorder,Buprenorphine,2888,2025/03/18 02:12:35 PM,2025/03/18 02:17:07 PM
+2022,Annual (Full),,2022/01/01,2022/12/31,Medications for Opiate Use Disorder,Buprenorphine,2538,2025/03/18 02:12:35 PM,2025/03/18 02:17:07 PM
+2023,Annual (Full),,2023/01/01,2023/12/31,Medications for Opiate Use Disorder,Buprenorphine,2529,2025/03/18 02:12:35 PM,2025/03/18 02:17:07 PM
+2024,Annual (Partial),2024 (Jan-Sep),2024/01/01,2024/09/30,Medications for Opiate Use Disorder,Buprenorphine,2896,2025/03/18 02:12:35 PM,2025/03/18 02:17:07 PM
+2025,Annual (Partial),2025 (Jan),2025/01/01,2025/01/31,Medications for Opiate Use Disorder,Methadone,1974,2025/03/18 02:13:10 PM,2025/03/18 02:17:07 PM
+2024,Annual (Full),,2024/01/01,2024/12/31,Medications for Opiate Use Disorder,Methadone,2812,2025/03/18 02:13:10 PM,2025/03/18 02:17:07 PM
+2021,Annual (Full),,2021/01/01,2021/12/31,Medications for Opiate Use Disorder,Methadone,2286,2025/03/18 02:13:10 PM,2025/03/18 02:17:07 PM
+2022,Annual (Full),,2022/01/01,2022/12/31,Medications for Opiate Use Disorder,Methadone,2272,2025/03/18 02:13:10 PM,2025/03/18 02:17:07 PM
+2020,Annual (Full),,2020/01/01,2020/12/31,Medications for Opiate Use Disorder,Methadone,2646,2025/03/18 02:13:10 PM,2025/03/18 02:17:07 PM
+2023,Annual (Full),,2023/01/01,2023/12/31,Medications for Opiate Use Disorder,Methadone,2433,2025/03/18 02:13:10 PM,2025/03/18 02:17:07 PM
+2024,Quarterly,2024 Q1,2024/01/01,2024/03/31,Substance Use Disorder Treatment,WM Discharges,393,2025/03/18 02:13:27 PM,2025/03/18 02:17:07 PM
+2024,Quarterly,2024 Q2,2024/04/01,2024/06/30,Substance Use Disorder Treatment,WM Discharges,417,2025/03/18 02:13:27 PM,2025/03/18 02:17:07 PM
+2024,Quarterly,2024 Q3,2024/07/01,2024/09/30,Substance Use Disorder Treatment,WM Discharges,466,2025/03/18 02:13:27 PM,2025/03/18 02:17:07 PM
+2024,Quarterly,2024 Q4,2024/10/01,2024/12/31,Substance Use Disorder Treatment,WM Discharges,407,2025/03/18 02:13:27 PM,2025/03/18 02:17:07 PM
+2021,Quarterly,2021 Q1,2021/01/01,2021/03/31,Substance Use Disorder Treatment,WM Discharges,330,2025/03/18 02:13:27 PM,2025/03/18 02:17:07 PM
+2022,Quarterly,2022 Q1,2022/01/01,2022/03/31,Substance Use Disorder Treatment,WM Discharges,307,2025/03/18 02:13:27 PM,2025/03/18 02:17:07 PM
+2023,Quarterly,2023 Q1,2023/01/01,2023/03/31,Substance Use Disorder Treatment,WM Discharges,373,2025/03/18 02:13:27 PM,2025/03/18 02:17:07 PM
+2021,Quarterly,2021 Q2,2021/04/01,2021/06/30,Substance Use Disorder Treatment,WM Discharges,365,2025/03/18 02:13:27 PM,2025/03/18 02:17:07 PM
+2022,Quarterly,2022 Q2,2022/04/01,2022/06/30,Substance Use Disorder Treatment,WM Discharges,330,2025/03/18 02:13:27 PM,2025/03/18 02:17:07 PM
+2023,Quarterly,2023 Q2,2023/04/01,2023/06/30,Substance Use Disorder Treatment,WM Discharges,392,2025/03/18 02:13:27 PM,2025/03/18 02:17:07 PM
+2021,Quarterly,2021 Q3,2021/07/01,2021/09/30,Substance Use Disorder Treatment,WM Discharges,441,2025/03/18 02:13:27 PM,2025/03/18 02:17:07 PM
+2022,Quarterly,2022 Q3,2022/07/01,2022/09/30,Substance Use Disorder Treatment,WM Discharges,287,2025/03/18 02:13:27 PM,2025/03/18 02:17:07 PM
+2023,Quarterly,2023 Q3,2023/07/01,2023/09/30,Substance Use Disorder Treatment,WM Discharges,345,2025/03/18 02:13:27 PM,2025/03/18 02:17:07 PM
+2021,Quarterly,2021 Q4,2021/10/01,2021/12/31,Substance Use Disorder Treatment,WM Discharges,398,2025/03/18 02:13:27 PM,2025/03/18 02:17:07 PM
+2022,Quarterly,2022 Q4,2022/10/01,2022/12/31,Substance Use Disorder Treatment,WM Discharges,273,2025/03/18 02:13:27 PM,2025/03/18 02:17:07 PM
+2023,Quarterly,2023 Q4,2023/10/01,2023/12/31,Substance Use Disorder Treatment,WM Discharges,340,2025/03/18 02:13:27 PM,2025/03/18 02:17:07 PM
+2024,Quarterly,2024 Q1,2024/01/01,2024/03/31,Substance Use Disorder Treatment,SUD Residential Treatment Admissions,233,2025/03/18 02:13:28 PM,2025/03/18 02:17:07 PM
+2024,Quarterly,2024 Q2,2024/04/01,2024/06/30,Substance Use Disorder Treatment,SUD Residential Treatment Admissions,248,2025/03/18 02:13:28 PM,2025/03/18 02:17:07 PM
+2024,Quarterly,2024 Q3,2024/07/01,2024/09/30,Substance Use Disorder Treatment,SUD Residential Treatment Admissions,296,2025/03/18 02:13:28 PM,2025/03/18 02:17:07 PM
+2024,Quarterly,2024 Q4,2024/10/01,2024/12/31,Substance Use Disorder Treatment,SUD Residential Treatment Admissions,277,2025/03/18 02:13:28 PM,2025/03/18 02:17:07 PM
+2022,Quarterly,2022 Q2,2022/04/01,2022/06/30,Substance Use Disorder Treatment,SUD Residential Treatment Admissions,163,2025/03/18 02:13:28 PM,2025/03/18 02:17:07 PM
+2021,Quarterly,2021 Q1,2021/01/01,2021/03/31,Substance Use Disorder Treatment,SUD Residential Treatment Admissions,191,2025/03/18 02:13:28 PM,2025/03/18 02:17:07 PM
+2021,Quarterly,2021 Q4,2021/10/01,2021/12/31,Substance Use Disorder Treatment,SUD Residential Treatment Admissions,175,2025/03/18 02:13:28 PM,2025/03/18 02:17:07 PM
+2021,Quarterly,2021 Q2,2021/04/01,2021/06/30,Substance Use Disorder Treatment,SUD Residential Treatment Admissions,185,2025/03/18 02:13:28 PM,2025/03/18 02:17:07 PM
+2023,Quarterly,2023 Q1,2023/01/01,2023/03/31,Substance Use Disorder Treatment,SUD Residential Treatment Admissions,200,2025/03/18 02:13:28 PM,2025/03/18 02:17:07 PM
+2023,Quarterly,2023 Q4,2023/10/01,2023/12/31,Substance Use Disorder Treatment,SUD Residential Treatment Admissions,213,2025/03/18 02:13:28 PM,2025/03/18 02:17:07 PM
+2022,Quarterly,2022 Q3,2022/07/01,2022/09/30,Substance Use Disorder Treatment,SUD Residential Treatment Admissions,139,2025/03/18 02:13:28 PM,2025/03/18 02:17:07 PM
+2023,Quarterly,2023 Q2,2023/04/01,2023/06/30,Substance Use Disorder Treatment,SUD Residential Treatment Admissions,217,2025/03/18 02:13:28 PM,2025/03/18 02:17:07 PM
+2022,Quarterly,2022 Q1,2022/01/01,2022/03/31,Substance Use Disorder Treatment,SUD Residential Treatment Admissions,148,2025/03/18 02:13:28 PM,2025/03/18 02:17:07 PM
+2023,Quarterly,2023 Q3,2023/07/01,2023/09/30,Substance Use Disorder Treatment,SUD Residential Treatment Admissions,224,2025/03/18 02:13:28 PM,2025/03/18 02:17:07 PM
+2022,Quarterly,2022 Q4,2022/10/01,2022/12/31,Substance Use Disorder Treatment,SUD Residential Treatment Admissions,125,2025/03/18 02:13:28 PM,2025/03/18 02:17:07 PM
+2021,Quarterly,2021 Q3,2021/07/01,2021/09/30,Substance Use Disorder Treatment,SUD Residential Treatment Admissions,214,2025/03/18 02:13:28 PM,2025/03/18 02:17:07 PM
+2021,Quarterly,2021 Q1,2021/01/01,2021/03/31,Naloxone Distribution,Naloxone,7688,2025/03/18 02:12:35 PM,2025/03/18 02:17:07 PM
+2021,Quarterly,2021 Q2,2021/04/01,2021/06/30,Naloxone Distribution,Naloxone,7353,2025/03/18 02:12:35 PM,2025/03/18 02:17:07 PM
+2021,Quarterly,2021 Q3,2021/07/01,2021/09/30,Naloxone Distribution,Naloxone,8984,2025/03/18 02:12:35 PM,2025/03/18 02:17:07 PM
+2021,Quarterly,2021 Q4,2021/10/01,2021/12/31,Naloxone Distribution,Naloxone,17947,2025/03/18 02:12:35 PM,2025/03/18 02:17:07 PM
+2022,Quarterly,2022 Q1,2022/01/01,2022/03/31,Naloxone Distribution,Naloxone,13459,2025/03/18 02:12:35 PM,2025/03/18 02:17:07 PM
+2022,Quarterly,2022 Q2,2022/04/01,2022/06/30,Naloxone Distribution,Naloxone,24983,2025/03/18 02:12:35 PM,2025/03/18 02:17:07 PM
+2022,Quarterly,2022 Q3,2022/07/01,2022/09/30,Naloxone Distribution,Naloxone,32310,2025/03/18 02:12:35 PM,2025/03/18 02:17:07 PM
+2022,Quarterly,2022 Q4,2022/10/01,2022/12/31,Naloxone Distribution,Naloxone,28690,2025/03/18 02:12:35 PM,2025/03/18 02:17:07 PM
+2023,Quarterly,2023 Q1,2023/01/01,2023/03/31,Naloxone Distribution,Naloxone,30972,2025/03/18 02:12:35 PM,2025/03/18 02:17:07 PM
+2023,Quarterly,2023 Q2,2023/04/01,2023/06/30,Naloxone Distribution,Naloxone,43054,2025/03/18 02:12:35 PM,2025/03/18 02:17:07 PM
+2023,Quarterly,2023 Q3,2023/07/01,2023/09/30,Naloxone Distribution,Naloxone,33060,2025/03/18 02:12:35 PM,2025/03/18 02:17:07 PM
+2023,Quarterly,2023 Q4,2023/10/01,2023/12/31,Naloxone Distribution,Naloxone,32742,2025/03/18 02:12:35 PM,2025/03/18 02:17:07 PM
+2024,Quarterly,2024 Q1,2024/01/01,2024/03/31,Naloxone Distribution,Naloxone,52008,2025/03/18 02:12:35 PM,2025/03/18 02:17:07 PM
+2024,Quarterly,2024 Q2,2024/04/01,2024/06/30,Naloxone Distribution,Naloxone,39718,2025/03/18 02:12:35 PM,2025/03/18 02:17:07 PM
+2024,Quarterly,2024 Q3,2024/07/01,2024/09/30,Naloxone Distribution,Naloxone,62738,2025/03/18 02:12:35 PM,2025/03/18 02:17:07 PM
+2024,Quarterly,2024 Q4,2024/10/01,2024/12/31,Naloxone Distribution,Naloxone,47681,2025/03/18 02:12:35 PM,2025/03/18 02:17:07 PM
